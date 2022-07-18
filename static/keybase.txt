@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/augurcognito
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.aniketsingh.net
+  * I am augurcognito (https://keybase.io/augurcognito) on keybase.
+  * I have a public key ASCk0ceu7EFylBGbOmeZyLBUWGddpzJtAay5ammVkOxD3Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207e6092de63e40baf4f4ba0c71af268548a2a37512c6d1065d7a4401fc72dc9f80a",
+      "host": "keybase.io",
+      "kid": "0120a4d1c7aeec417294119b3a6799c8b05458675da7326d01acb96a699590ec43dd0a",
+      "uid": "0497fec4f9a2befff4242cf3db4bc319",
+      "username": "augurcognito"
+    },
+    "merkle_root": {
+      "ctime": 1655235501,
+      "hash": "a46a348bc667090da5f21bccd824fa1bfe0e7f14ec06fd563751ec26323fe2ce67b7de08d178e2740edb821adcb1bbe0e6b83ccacc5ee7b1ab74499b18df98c7",
+      "hash_meta": "7c75e61b0ea6ab60e8075d4b7fdb129ca2f94556cbd876840abe6e2f588b179a",
+      "seqno": 22674448
+    },
+    "service": {
+      "entropy": "SFWbkzqNS2lO4yB0qRqITcXB",
+      "hostname": "www.aniketsingh.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1655235566,
+  "expire_in": 504576000,
+  "prev": "dda778c2dfebf734af92f463dfe99fe754e204b69b25379081e20812af86e72b",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpNHHruxBcpQRmzpnmciwVFhnXacybQGsuWpplZDsQ90Kp3BheWxvYWTESpcCHcQg3ad4wt/r9zSvkvRj3+mf51TiBLabJTeQgeIIEq+G5yvEIM1/Zm0zflR6lVff3ZuZ9bppc23aYPwUeJuTE1eOIobYAgHCo3NpZ8RAQB9XPHRDln+OW0beZX218nMKzqdTuRnBAZhogaiHLt9M98qYTgfYOIqv+fhaoSW1tuPsXb1Z51F1A34HLpIKCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOmty3ymNRNVXne2prDp4/7w1HSzkqmoq3cVLwDRRI9Vo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/augurcognito
+
+==================================================================
