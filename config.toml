@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.aniketsingh.net/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'One of the place where I interesting put stuff on'
 theme = "congo"
 disqusShortname = "augurcognito"

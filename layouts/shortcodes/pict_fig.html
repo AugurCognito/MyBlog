@@ -1,0 +1,8 @@
+<figure>
+<picture class={{.Get "class"}}>
+    <source srcset="/img/post/{{.Get "year"}}/{{.Get "src"}}.avif" type="image/avif">
+    <source srcset="/img/post/{{.Get "year"}}/{{.Get "src"}}.webp" type="image/webp">
+    <img src="/img/post/{{.Get "year"}}/{{.Get "src"}}.jpg" alt="{{.Get "alt"}}">
+</picture>
+<figcaption style="text-align:center">{{.Get "caption"}}</figcaption>
+</figure>
