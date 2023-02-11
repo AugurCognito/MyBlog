@@ -5,7 +5,6 @@ summary:    Blog about how I deal with image optimization
 categories: ["meta"]
 tags: ["blog", "image", "optimization"]
 ---
-
 One of my friend, struggling with images in his application asked me how I deal with images.
 I thought it would be a good idea to write a blog about how I personally do it.
 
@@ -66,7 +65,7 @@ I created this shortcode to post images with caption in my posts.
     <figcaption style="text-align:center">{{.Get "caption"}}</figcaption>
 </figure>
 ```
-An example usage would be
+Example usage would be
 ```html
 <image class="img-fluid" year="2021" src="image-name" alt="alt text" caption="caption text">
 ```
