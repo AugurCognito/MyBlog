@@ -6,7 +6,7 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "congo"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = true
@@ -31,7 +31,7 @@ mainSections = ["posts"]
 [article]
   showDate = true
   showDateUpdated = true
-  showAuthor = true
+  showAuthor = false
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
@@ -40,7 +40,7 @@ mainSections = ["posts"]
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = false
   showTaxonomies = true
   showWordCount = false
