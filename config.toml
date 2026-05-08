@@ -1,5 +1,5 @@
 baseURL = 'http://www.aniketsingh.net/'
-locale = 'en-us'
+languageCode = 'en-us'
 title = 'One of the place where I interesting put stuff on'
 theme = "congo"
 disqusShortname = "augurcognito"

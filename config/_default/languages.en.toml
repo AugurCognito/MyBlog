@@ -1,5 +1,5 @@
-locale = "en"
-label = "English"
+languageCode = "en"
+languageName = "English"
 displayName = "EN"
 isoCode = "en"
 weight = 1
@@ -12,7 +12,7 @@ copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
-[author]
+[params.author]
   name = "Aniket Singh"
 # image = "img/author.png"
   headline = "Software engineer. Two startups. Backend, frontend, DevOps, infrastructure. Mostly healthcare."
