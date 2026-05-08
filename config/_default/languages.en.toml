@@ -1,5 +1,5 @@
-languageCode = "en"
-languageName = "English"
+locale = "en"
+label = "English"
 displayName = "EN"
 isoCode = "en"
 weight = 1
@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "Aniket Singh"
 # image = "img/author.png"
-  headline = "I am doing my bachelors in Electronics & Telecommunication.<br> Here I post stuff related to technology and programming, or whatever stuff I find interesting."
-  bio = "Just another internet user"
+  headline = "Software engineer. Two startups. Backend, frontend, DevOps, infrastructure. Mostly healthcare."
+  bio = "Building things across the stack"
   links = [
       { email = "mailto:contact@aniketsingh.net" },
   #   { link = "https://link-to-some-website.com/" },

@@ -8,15 +8,19 @@ showComments: false
 showAuthor: false
 ---
 
-## About Blog
-I started this blog to learn about dns and how to give ideas a written form efficiently. This blog is about
+I'm Aniket Singh. I've worked at two startups and done a bit of everything along the way. Backend, frontend, DevOps, infrastructure, forward deployed engineering.
 
-- Technical subjects I find interesting.
-- Things that I am currently learning and just want to write my understanding of topic down
-- Complicated and seemingly inaccessible topics being simplified
-- Tools I am fascinated with or use in my day to day life
-- Problems or questions that I faced and wanted to share solution
+Most of my work has been in healthcare. I've built patient facing platforms, EHR integrations, payment systems, compliance screening, data ingestion pipelines, workflow orchestration, observability systems, and multi tenant SaaS. Regulated environments where you can't afford to get things wrong.
 
-## About Me
-I am Aniket Singh. Currently doing my bachelors in Electronics and telecommunication Engineering from [AIT, Pune](https://www.aitpune.com/). I am open source software enthusiast.\
-I mostly code in C, C++ and python but have experience with other languages. I have experience with full stack web development as well as system programming.
+### What I work with
+
+- Elixir, Phoenix, PostgreSQL, FHIR and HL7
+- Bulk data ingestion, ETL workflows, document processing, data activation pipelines
+- TypeScript, TSX, React, Next.js, LiveView, Tailwind
+- AWS (ECS, Lambda, Aurora), Terraform, Docker, CI/CD
+- OpenTelemetry, custom telemetry pipelines, Rust
+- Client integrations, multi tenant connected apps, AI tooling
+
+### This blog
+
+I write about things I find interesting. Tools I use, stuff I'm learning, problems worth sharing solutions to.
