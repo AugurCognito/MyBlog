@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [params.author]
   name = "Aniket Singh"
 # image = "img/author.png"
-  headline = "Software engineer. Two startups. Backend, frontend, DevOps, infrastructure. Mostly healthcare."
+  headline = "I write code across the stack. Sometimes it even works."
   bio = "Building things across the stack"
   links = [
       { email = "mailto:contact@aniketsingh.net" },
