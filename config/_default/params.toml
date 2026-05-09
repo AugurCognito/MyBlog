@@ -21,7 +21,7 @@ mainSections = ["posts"]
 [footer]
   showCopyright = false
   showThemeAttribution = false
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
