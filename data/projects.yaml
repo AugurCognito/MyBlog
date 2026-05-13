@@ -1,3 +1,9 @@
+- title: Ingress
+  description: AI-powered research and communication platform built with Elixir and Phoenix LiveView. Features a stateless agentic tool-use loop, IMAP email sync, RSS/Atom feed ingestion, cron-based automations, and circuit breakers at service boundaries.
+  started: "2026-apr"
+  website: https://ingres.aniketsingh.net/
+  icon: globe
+
 - title: Claude Session Explorer
   description: A CLI tool for extracting structured data from Claude Code session history. Browse sessions with filters, full-text/regex search, file operation retrieval, token usage stats, and export to JSON/Markdown.
   started: "2026-may"

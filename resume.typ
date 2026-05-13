@@ -87,7 +87,7 @@
 
 #section("Projects")
 
-#project-entry("Ingress", "Elixir, Phoenix LiveView, Oban, PostgreSQL")
+#project-entry("Ingress", "Elixir, Phoenix LiveView, Oban, PostgreSQL", link: "ingres.aniketsingh.net")
 - AI-powered research and communication platform — IMAP email sync, RSS/Atom feed ingestion, cron-based automations, and circuit breakers at service boundaries
 - Stateless agentic tool-use loop with DB-backed state, pluggable Provider behaviour + ToolRegistry, and full run traceability via structured step logging
 
